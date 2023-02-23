@@ -1,0 +1,2 @@
+# ejerciciorickandmorty
+ejercicio de api
